@@ -1,0 +1,38 @@
+# GDS Holdings Ltd
+
+## Power risk
+
+|**Risk Category**| **Sub-Metric**| **Flag**| **Score**|**Justification**| **Reference**|
+| ------------------------------------ | ----------------------------------------- | --------------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+|**Power Infrastructure Resilience**|**Grid Redundancy & Backup Systems**|Comprehensive Backup| **5**|GDS operates Tier III+ data centers with 'multiple redundancy across all critical systems' and 'advanced data center design with high technical specifications.' While industry standards suggest Tier III+ facilities typically include N+1 redundancy and backup generators, specific details about dual utility feeds or backup duration are not publicly disclosed in available documentation.|[GDS 2024 Sustainability Report](https://www.gds.earth/wp-content/uploads/Sustainability-Report-GDSM-CityDNA-1.pdf) <br>[GDS Investor Material](https://investors.gds-services.com/)</br>|
+||**Regional Power Constraint Exposure**|25–50% in Risk Regions| **15**| Without granular breakdown of power load per region, and given multiple data center clusters in northern China—which face significant grid constraints and delay risk—it may be more prudent to assume that 25–50% of GDS's capacity lies in high-risk regions.| [GDS 2023 ESG Report](https://investors.gds-services.com/news-releases/news-release-details/gds-releases-2023-esg-report)|
+|**Capacity Growth & Scalability**|**Secured Future Power Capacity**| Multi‑Year Pipeline Secured|**0**| GDS continues building self-developed campuses; long runway of self-built expansions; appears to have multi‑year pipeline.|[GDS Holdings Limited Starts Construction of its Fifth Data Center in Shanghai](https://investors.gds-services.com/news-releases/news-release-details/gds-holdings-limited-starts-construction-its-fifth-data-center)|
+||**Power Procurement Strategy**| Some Long‑term|**5**| GDS has institutional renewable procurement, pilot clean energy projects, and rooftop solar installations, but centralized long-term PPA disclosures limited. | |
+| **Cost Management & Volatility**|**Power Cost Hedging/Stabilization Strategy**| Limited Hedging | **10**| No evidence of comprehensive hedging programs; cost planning not openly disclosed.|  |
+||**Energy Cost Transparency & Management**| Basic Disclosure| **3**| 2023 ESG report discloses 38% renewable usage and average PUE of 1.28 at portfolio level; but no cost-per-kWh data or procurement pricing details||
+| **Operational Energy Efficiency**|**Power Usage Effectiveness (PUE)**| 1.25–1.4| **5**|GDS 2023 ESG disclosures: average PUE of 1.28, top-performing site at 1.15. Pujiang Data Center: average PUE below 1.23, further reinforcing strong facility-level efficiency.|[GDS 2023 ESG report](https://c.gds-services.com/esg2023/docs/2023_ESG_Report_EN.pdf) |
+| |**Efficiency Improvement Trajectory**|Improving Trend| **0**| PUE trending downward; GDS invests in operations platform, energy pilots, and new build efficiencies. | [GDS 2023 ESG report](https://c.gds-services.com/esg2023/docs/2023_ESG_Report_EN.pdf) |
+| **Sustainability & Regulatory Risk** |**Renewable Energy Integration | 25–50% Renewable| **8** | GDS achieved 38% renewable usage in 2023; 41 data centers certified green.|[GDS 2023 ESG report](https://c.gds-services.com/esg2023/docs/2023_ESG_Report_EN.pdf)|
+|  |**ESG/Climate Regulatory Preparedness**| Comprehensive Strateg| **0**| GDS joined SBTi, targets carbon neutrality by 2030, integrates climate strategy and governance. |  |
+
+
+## Geographic Risk Evaluation
+| **Sub-Metric** | **Flag** | **Score** | **Justification** | **Reference** |
+|----------------|----------|-----------|-------------------|---------------|
+| **Asset Geographic Concentration Risk**   |Moderately Concentrated| **12**| GDS operates exclusively in China, with over 100+ self‑developed data centers across major metro regions (Beijing, Shanghai, Shenzhen, Chengdu, Guangzhou, Suzhou, Zhangbei). Over 60% of capacity is concentrated in just Beijing/Shenzhen/Shanghai metro areas—significantly over the 40% threshold in one single country or metro. |   |
+| **Revenue Geographic Concentration Risk** |Moderately Concentrated| **10**|GDS derives over 96% of its net revenues from operations within mainland China, despite being a Cayman holding company. Within China, significant revenues come from Tier‑1 metro clusters like Beijing, Shanghai, and Shenzhen, which account for >40% of data center capacity and client commitments|  |
+| **High‑Risk Geographic Exposure** |Moderate Exposure |**10** | >60% of its data center area and customers are located in cities with known regulatory and power grid scrutiny including Beijing, Shanghai, and Shenzhen. Chinese government has recently introduced strong oversight—including utilization thresholds, national oversight of AI-data centers, and power quota regulations—that increase operational risk in these regions.  | |
+| **Natural Disaster & Climate Risk** | High Risk|**10**|GDS’s data centers are located in major Chinese metro areas like Shanghai, Beijing, Shenzhen, which are ranked among the highest-risk provinces globally for climate-induced damages such as flooding, heat stress, and storm impact. The 2025 XDI report identifies these as high-risk hubs for infrastructure exposure. This places over 50% of critical capacity in high-risk natural disaster zones, exceeding the 50% threshold for high risk.|  |
+| **Market Saturation & Competition Risk**  |High Saturation|**5**||GDS operates in one of the most competitive and saturated data center markets globally—China’s Tier-1 metro regions. It holds about 25% market share in carrier-neutral facilities, but faces intense pressure from peers like Alibaba Cloud, Tencent, 21Vianet (VNET), and Chindata/WinTriX. | |
+
+
+
+## Customer Concentration Risk.
+https://investors.gds-services.com/system/files-encrypted/nasdaq_kms/assets/2025/04/28/8-51-28/0001410578-25-000935.pdf
+| **Sub-Metric** | **Flag** | **Score** | **Justification** | **Reference** |
+|----------------|----------|-----------|-------------------|---------------|
+| **Single Customer Dependency** | Relatively Large Dependency | **15** |	As of Dec 31, 2024, Customer 1 accounted for 33.7% of total committed area, and Customer 2 accounted for another 14.3%. | |
+| **Top Customer Portfolio Concentration**     | Highly Concentrated |**13**|	Top 5 customers collectively account for 67.8% of committed area (33.7% + 14.3% + 8.4% + 7.5% + 3.9%), which is far above the 60% threshold.| |
+| **Customer Type & Pricing Power Risk**       |  Mixed | **10**|	GDS’ largest customers are hyperscale cloud service providers and major internet companies, which have strong bargaining leverage and can negotiate volume discounts and favorable terms. |   |
+| **Contract Duration & Revenue Stability**    | Strong Protection | **0**|	GDS signs 3–10 year multi‑service contracts for hyperscale/cloud clients, with shorter (1–5 year) terms for enterprise/financial customers. This creates strong recurring revenue visibility.|   |
+| **Customer Financial Quality & Credit Risk** | High Quality| **1**  |Serves major firms—global cloud providers, telecom operators and large enterprises—typically investment-grade entities with strong financial profiles.| 
