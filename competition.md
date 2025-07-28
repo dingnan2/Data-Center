@@ -101,7 +101,7 @@ It indicates the company’s ability to:
 - Limited (High Risk) –
     - Few or no meaningful partnerships; isolated in market.
 
-
+### [Example Investigation]
 | Company                       | Key Partnerships                                                       | Ecosystem Depth                               | Flag                             |
 | ----------------------------- | ---------------------------------------------------------------------- | --------------------------------------------- | -------------------------------- |
 | **Equinix**                   | AWS, Azure, GCP, Oracle, IBM Cloud, + 200+ telcos                      | **Global on‑ramps & interconnection leader**  | **Robust (Low Risk)**            |
