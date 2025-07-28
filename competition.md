@@ -20,7 +20,7 @@ $$
 * ⚠️ **Important:** Mark in the spreadsheet how it was annualized (e.g., “Q1 × 4”).
 * If you have **2025 annual data**, use the annual data directly
 
-### ⚠️ **Why annualize?**
+### **Why annualize?**
 
 * Denominators (market sizes) are **annual numbers** (full-year 2025).
 * Annualizing the numerator ensures **apples-to-apples comparison**.
