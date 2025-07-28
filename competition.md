@@ -129,7 +129,7 @@ This sub‑metric captures the **forward‑looking competitive power** of a firm
 
 ### **Formula**
 $$
-\text{CapEx Intensity (\%)} = \frac{\text{CapEx}}{\text{Revenue}} \times 100
+\text{CapEx Intensity \%} = \frac{\text{CapEx}}{\text{Revenue}} \times 100
 $$
 
 
